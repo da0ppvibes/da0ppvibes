@@ -1,16 +1,13 @@
-## Hi there 👋
+# yo, i'm da0ppvibes 👋
 
-<!--
-**da0ppvibes/da0ppvibes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build small web tools that try to do one thing well — usually with TypeScript, Node, and a SQLite file sitting somewhere it probably shouldn't. Lately I've been thinking about the indie web, serverless, and how much complexity I can honestly justify before it stops being pragmatic.
 
-Here are some ideas to get you started:
+- 🔭 A quiet little Express + SQLite sidecar for managing my own reading notes.
+- reach me at **@da0ppvibes** on GitHub
+- rewrites it once, then leaves it alone
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=da0ppvibes&layout=compact&langs_count=8&hide_border=true&theme=onedark" alt="Top languages" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=da0ppvibes&hide_border=true&theme=onedark" alt="Commit streak" />
+
+<img src="https://img.shields.io/badge/SQLite-fb923c?style=for-the-badge&logoColor=white" alt="SQLite" /> <img src="https://img.shields.io/badge/React-fb923c?style=for-the-badge&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Express-fb923c?style=for-the-badge&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/TypeScript-fb923c?style=for-the-badge&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Node.js-fb923c?style=for-the-badge&logoColor=white" alt="Node.js" />
